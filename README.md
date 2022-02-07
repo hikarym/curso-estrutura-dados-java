@@ -56,7 +56,10 @@ Neste repositório vamos aprender :
   * Filas com Prioridade
   * API Java: PriorityQueue
 
+## Diagrama de Classes
+Diagrama de classes das estruturas de dados construidas neste curso
 
+![Diagrama de classes](/images/diagrama-classes.png)
   
 
 
